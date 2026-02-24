@@ -1,0 +1,11 @@
+# Images data
+images/
+
+# Large data files
+*.zip
+
+# Python virtual environments
+animalCLEF/
+
+# macOS
+.DS_Store
